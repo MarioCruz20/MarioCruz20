@@ -1,6 +1,6 @@
 # Hola, soy Mario Cruz
 
-Estudiante de Ingeniería en Desarrollo de Software, enfocado en desarrollo web y móvil.
+Estudiante de Ingeniería en Desarrollo de Software con experiencia en desarrollo web y móvil utilizando Java, PHP (Laravel) y React Native.
 
 ## Tecnologías
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -10,6 +10,6 @@ Estudiante de Ingeniería en Desarrollo de Software, enfocado en desarrollo web 
 - ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ## Proyectos destacados
-- Aplicación móvil de recetas (React Native)
-- Sistema de gestión de hostal (Java, JSP)
-- Sistema de control de calidad (Laravel)
+- Aplicación móvil de recetas (React Native + Expo)
+- Sistema de gestión de hostal (Java, JSP, SQL Server)
+- Sistema de control de calidad (Laravel, MySQL)
