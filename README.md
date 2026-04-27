@@ -2,11 +2,7 @@
 
 Estudiante de Ingeniería en Desarrollo de Software con experiencia en desarrollo web y móvil utilizando Java, PHP (Laravel) y React Native.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarioCruz20&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioCruz20&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MarioCruz20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioCruz20&layout=compact) ![GitHub Streak](https://streak-stats.demolab.com?user=MarioCruz20)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarioCruz20)
 
