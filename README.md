@@ -3,9 +3,10 @@
 Estudiante de Ingeniería en Desarrollo de Software con experiencia en desarrollo web y móvil utilizando Java, PHP (Laravel) y React Native.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioCruz20&layout=compact" height="200"/>
-  <img src="https://streak-stats.demolab.com?user=MarioCruz20" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioCruz20&layout=compact&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=MarioCruz20&hide_border=true" height="165"/>
 </p>
+
 
 ## Tecnologías
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
