@@ -4,6 +4,12 @@ Estudiante de Ingeniería en Desarrollo de Software con experiencia en desarroll
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarioCruz20&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioCruz20&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MarioCruz20)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarioCruz20)
+
 ## Tecnologías
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
